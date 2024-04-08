@@ -1,5 +1,5 @@
+
 import inquirer from "inquirer";
-import { userInfo } from "os";
 
 const curRates:any = {
     USD: 1,
